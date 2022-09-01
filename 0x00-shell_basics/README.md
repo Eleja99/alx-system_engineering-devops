@@ -1,1 +1,1 @@
-A script that creates a soft link 
+A script that copy files 
