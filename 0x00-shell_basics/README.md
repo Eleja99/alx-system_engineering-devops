@@ -1,1 +1,1 @@
-A script that list hidden files in seperate directories 
+A script that prints the file type 
