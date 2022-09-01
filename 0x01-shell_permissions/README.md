@@ -1,1 +1,1 @@
-A script that adds permissions to all sub directories in the current directory
+A script that adds permissions to all files and directories in the current directory
