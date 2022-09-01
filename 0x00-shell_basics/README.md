@@ -1,1 +1,1 @@
-A script that list files and directories seperated by comma 
+A script that creates nested directories 
