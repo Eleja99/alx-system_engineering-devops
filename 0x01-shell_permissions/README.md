@@ -1,1 +1,1 @@
-A script that adds execute and read permission
+A script that adds execute permission to all
