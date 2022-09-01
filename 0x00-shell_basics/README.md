@@ -1,1 +1,1 @@
-A script that changes the working directory to the previous one 
+A script that list hidden files in seperate directories 
