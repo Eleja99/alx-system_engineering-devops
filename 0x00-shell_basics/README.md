@@ -1,1 +1,1 @@
-A script that delete unwanted files 
+A script that list files and directories seperated by comma 
