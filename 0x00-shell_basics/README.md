@@ -1,1 +1,1 @@
-A script that prints the file type 
+A script that creates a soft link 
