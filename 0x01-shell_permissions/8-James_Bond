@@ -1,0 +1,2 @@
+#!/bin/user
+chmod ug=,o+a hello
