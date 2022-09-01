@@ -1,1 +1,1 @@
-A script that gives some permissions to owner group and others
+A script that uses the --reference option
