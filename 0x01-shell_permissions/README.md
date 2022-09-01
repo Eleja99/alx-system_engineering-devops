@@ -1,1 +1,1 @@
-A script that adds permissions to all files and directories in the current directory
+A script that changes the ownership of a file
