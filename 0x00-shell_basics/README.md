@@ -1,1 +1,1 @@
-A script that creates nested directories 
+A script that create school.mgc file 
