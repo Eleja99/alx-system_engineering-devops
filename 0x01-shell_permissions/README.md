@@ -1,1 +1,1 @@
-A script that uses the --reference option
+A script that changes group owner
