@@ -1,1 +1,1 @@
- a script that displays the content of the /etc/passwd and /etc/hosts files.
+ a script that displays the last ten lines of etc/passwd file
