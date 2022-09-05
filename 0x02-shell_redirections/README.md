@@ -1,1 +1,1 @@
- a script that displays the first ten lines of etc/passwd file
+ a script that displays the third line of a file
