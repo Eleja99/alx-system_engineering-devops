@@ -1,1 +1,1 @@
- a script that creates a file
+ a script that pipes a command
