@@ -1,1 +1,1 @@
- a script that deletes all files in the present directories and sub-directories
+ script that counts the number of directories and sub-directories in the current directory.
