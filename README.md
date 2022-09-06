@@ -1,1 +1,1 @@
-A repository for Alx software Engineering Program
+Create a script that creates an alias. Name:ls Value: rm *
